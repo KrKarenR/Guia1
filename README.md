@@ -1,7 +1,4 @@
-# Guia1
-Actividad parqueadero
-  Apache NetBeans IDE20
-  JDK 21
+Este proyecto es una aplicación para gestionar la feria empresarial.
+Descripción.
 
-Actividad feria empresarial
-    
+El proyecto permite gestionar visitantes, empresas y stands en una feria empresarial, facilitando la organización y seguimiento.
