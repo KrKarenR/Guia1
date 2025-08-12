@@ -5,4 +5,4 @@ Actividad parqueadero
 
 Actividad feria empresarial
 - Apache NetBeans IDE26
-- JDK 
+- JDK 24
